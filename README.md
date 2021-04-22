@@ -1,3 +1,4 @@
-# My Awesome Book
+# Intro
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Cet article se propose de traiter des questions liées à la production et à la distribution de l'énergie en rapport avec le climat. Il s'agit principalement d'examiner le rapport entre production électrique et gaz à effet de serre.
+
