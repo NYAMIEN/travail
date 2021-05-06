@@ -1,1 +1,6 @@
-# First Chapter
+# Chapitre 1: Elements du rapport
+
+Trente ans pendant lesquels le SYNARES a donné la preuve que des citoyens organisés, ne fût-ce même que sous la forme corporatiste pouvaient donner l'exemple de l'indépendance de pensée, de conception, d'initiative et d'action. Nous avons souvent, dans l'adversité, donner la preuve que le syndicalisme indépendant, certes corporatiste par essence pouvait être autre que de participation responsable. Ni simplement protestataire, ni révolutionnaire, ni simplement corporatiste, le syndicalisme dans notre cas s'est voulu d'implication consciente pour obtenir les changements indispensables à l'amélioration des conditions de vie et de travail de tous les travailleurs et par delà Trente ans pendant lesquels le SYNARES a donné la preuve que des citoyens organisés, ne fût-ce même que sous la forme corporatiste pouvaient donner l'exemple de l'indépendance de pensée, de conception, d'initiative et d'action. Nous avons souvent, dans l'adversité, donner la preuve que le syndicalisme indépendant, certes corporatiste par essence pouvait être autre que de participation responsable. Ni simplement protestataire, ni révolutionnaire, ni simplement corporatiste, le syndicalisme dans notre cas s'est voulu d'implication consciente pour obtenir les changements indispensables à l'amélioration des conditions de vie et de travail de tous les travailleurs et par delà 
+
+
+
