@@ -1,13 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [index](chapter1/README.md)
-  * [Untitled](chapter1/untitled.md)
-  * [Bilan1](chapter1/bilan1/README.md)
-    * [Versement](chapter1/bilan1/versement.md)
-    * [Dépots](chapter1/bilan1/depots.md)
-  * [Bilan 2](chapter1/bilan-2.md)
-* [sous sous chap](chap-2.md)
-* [Untitled](untitled-1.md)
-* [index](untitled.md)
+* [Chapitre 1](chap-2/README.md)
+  * [Chapitre 3](chap-2/chapitre-3.md)
+* [Chapitre 2](untitled-1/README.md)
+  * [Chapitre 4](untitled-1/chapitre-4.md)
 
