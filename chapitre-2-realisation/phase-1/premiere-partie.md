@@ -1,0 +1,4 @@
+### Première partie
+
+particulièrement pour la construction d'un État de droit, de justice sociale et de solidarité ; cela principalement au regard de nos textes et de notre fonctionnement. Dans un troisième point, certainement lié au premier, vous permettrez que nous abordions la question des rapports de notre syndicat avec  les autres syndicats. Il s'agit de voir comment nous avons géré nos rapports avec les autres syndicats nationaux et internationaux. particulièrement pour la construction d'un État de droit, de justice sociale et de solidarité ; cela principalement au regard de nos textes et de notre fonctionnement. Dans un troisième point, certainement lié au premier, vous permettrez que nous abordions la question des rapports de notre syndicat avec  les autres syndicats. Il s'agit de voir comment nous avons géré nos rapports avec les autres syndicats nationaux et internationaux. 
+
